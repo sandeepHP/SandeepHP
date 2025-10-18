@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sandeep Hp</h1>
 <h3 align="center">A passionate Devops/cybersec India</h3>
 
